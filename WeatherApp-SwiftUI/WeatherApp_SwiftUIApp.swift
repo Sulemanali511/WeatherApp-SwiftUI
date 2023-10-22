@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+@available(iOS 14.0, *)
 @main
 struct WeatherApp_SwiftUIApp: App {
     var body: some Scene {
